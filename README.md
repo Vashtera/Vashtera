@@ -10,7 +10,7 @@ Django (learning)
 
 Git & GitHub
 
-SQL / Databases (learning)
+SQL / Databases
 
 REST APIs (learning)
 
