@@ -6,7 +6,7 @@ I work with:
 
 Python
 
-Django (learning)
+Django 
 
 Git & GitHub
 
