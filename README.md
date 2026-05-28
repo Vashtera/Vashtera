@@ -6,11 +6,11 @@ I work with:
 
 Python
 
-Django 
+Django (learning)
 
 Git & GitHub
 
-SQL / Databases
+SQL / Databases (learning)
 
 REST APIs (learning)
 
