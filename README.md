@@ -6,11 +6,11 @@ I work with:
 
 Python
 
-Django (learning)
+FastAPI (learning)
 
 Git & GitHub
 
-SQL / Databases (learning)
+PostgreSQL
 
 REST APIs (learning)
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: https://www.linkedin.com/in/raul-aitbayev-0a479829b/
-- 😄 Pronouns: he| him
-- ⚡ Fun fact: i was been a sailor in 2024
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
