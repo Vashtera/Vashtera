@@ -5,9 +5,9 @@
 
 Python
 
-FastAPI (learning)
+FastAPI 
 
-Redis
+Redis (learning)
 
 PostgreSQL
 
