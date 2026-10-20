@@ -15,4 +15,4 @@ Right now my main goal is to grow from fundamentals to production-level backend 
 
 📫 How to reach me: https://www.linkedin.com/in/raul-aitbayev-0a479829b/
 
-⚡ Fun fact: i was been a sailor in 2024
+⚡ Fun fact: I was been a sailor in 2024
